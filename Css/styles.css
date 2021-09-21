@@ -1,0 +1,141 @@
+.top-Container {
+  background-color: #316B83;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  padding:100px ;
+}
+.bottom-container {
+  background-color: #8CA1A5;
+  padding-top:10px;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+    color: #40514E;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #38A3A5;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  padding-bottom: 10px;
+  color: #38A3A5;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+hr{
+  margin: 100px auto;
+  border-style: none ;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 6px;
+  width: 5%;
+}
+
+
+a{
+color: #EAF6F6;
+margin: auto 15px;
+text-decoration: none;
+}
+
+a:hover{
+  color: #316B83;
+
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.skill-pro {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-foot{
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+
+}
+
+.pro{
+  font-weight: normal;
+}
+.skill-row{
+  width: 40%;
+  margin: 80px auto 150px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.pro-img{
+  width: 13%;
+}
+p{
+  font-weight: bold;
+  line-height: 2;
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
+
+.cr{
+  color: #316B83;
+}
+
+.BUTTON_UJQ {
+  margin: 15px auto;
+   -webkit-border-radius: 1px;
+   -moz-border-radius: 1px;
+   border-radius: 8px;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-size: 16px;
+   font-weight: 100;
+   padding: 10px;
+   background-color: #11999E;
+
+   border: #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_UJQ:hover {
+   border: #316B83 1px;
+      color: #FFFFFF;
+   background: #316B83;
+   -webkit-border-radius: 1px;
+   -moz-border-radius: 1px;
+   border-radius: 8px;
+   text-decoration: none;
+}
